@@ -53,7 +53,7 @@ fun ClothingTrackerApp(modifier: Modifier = Modifier) {
             Clothing(5, "Gömlek", "Beyaz güzel gömlek."),
             Clothing(6, "Çorap", "Kalın, sıcak tutan çorap."),
             Clothing(7, "Mont", "Deri, Sıcak tutan kapüşonlu mont."),
-            Clothing(8, "Kazak", "Yün kazak."),
+            Clothing(8, "Kazak", "Yün kazak"),
             Clothing(9, "Saat", "Güzel gözüken saat.")
         )
     }
