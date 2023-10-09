@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Compose Application</string>
+    <string name="clothing_icon">Clothing Icon</string>
+    <string name="delete_icon">Delete Icon</string>
+    <string name="show_description">Show Description</string>
+    <string name="hide_description">Hide Description</string>
+</resources>
