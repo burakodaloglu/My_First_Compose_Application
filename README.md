@@ -1,4 +1,4 @@
-# My_First_Compose_Application
+# My First Compose Application
 Google Compose Camp'de öğrendiğim ilk Compose projem
 
  - Jetpack Compose
